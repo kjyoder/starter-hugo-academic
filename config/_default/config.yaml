@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Keith Yoder # Website name
-baseURL: 'https://hopeful-babbage-c7a3f5.netlify.app/' # Website URL
+baseURL: 'https://keithyoder.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
